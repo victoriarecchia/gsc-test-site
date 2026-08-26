@@ -38,8 +38,8 @@ export default function Home() {
           <button>📊 Pandas</button>
         </Link>
 
-        <Link href="/sqlalchemy">
-          <button>⚡ SQLAlchemy</button>
+        <Link href="/postgreSQL">
+          <button>🗄️ PostgreSQL</button>
         </Link>
 
         <Link href="/great-expectations">

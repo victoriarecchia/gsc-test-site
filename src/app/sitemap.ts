@@ -10,9 +10,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: "https://seo-test-site.netlify.app/python",
       lastModified: new Date(),
     },
-    {
+        {
       url: "https://seo-test-site.netlify.app/postgresql",
       lastModified: new Date(),
     },
+    {
+      url: "https://seo-test-site.netlify.app/pandas",
+      lastModified: new Date(),
+    },
+    {
+      url: "https://seo-test-site.netlify.app/superset",
+      lastModified: new Date(),
+    },
+    {
+      url: "https://seo-test-site.netlify.app/great-expectations",
+      lastModified: new Date(),
+    },
+
   ];
 }
