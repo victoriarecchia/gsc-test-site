@@ -1,11 +1,19 @@
+import { Metadata } from "next";
 import Link from "next/link";
 
+export const metadata: Metadata = {
+title: "Python page",
+description:
+"Learn how Python is used for data analytics, data engineering, machine learning and automation.",
+};
+  
 export default function PythonPage() {
   return (
     <main>
       <nav>
         <Link href="/">Home</Link> |{" "}
         <Link href="/postgresql">PostgreSQL</Link> |{" "}
+        <Link href="/great-expectations">Great Expectations</Link> |{" "}
         <Link href="/pandas">Pandas</Link> |{" "}
         <Link href="/superset">Superset</Link>
       </nav>

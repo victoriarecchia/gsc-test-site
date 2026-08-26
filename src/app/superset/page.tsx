@@ -15,7 +15,8 @@ export default function SupersetPage() {
         <Link href="/">Home</Link> |{" "}
         <Link href="/python">Python</Link> |{" "}
         <Link href="/postgresql">PostgreSQL</Link> |{" "}
-        <Link href="/pandas">Pandas</Link>
+        <Link href="/pandas">Pandas</Link> |{" "}
+        <Link href="/great-expectations">Great Expectations</Link>
       </nav>
 
       <h1>Superset</h1>
