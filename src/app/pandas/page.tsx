@@ -1,5 +1,12 @@
+import { Metadata } from "next";
 import Link from "next/link";
 
+export const metadata: Metadata = {
+title: "Pandas | Victoria's SEO Analytics Lab",
+description:
+"Learn how Pandas is used for data analysis and manipulation.",
+};
+  
 export default function PandasPage() {
   return (
     <main>

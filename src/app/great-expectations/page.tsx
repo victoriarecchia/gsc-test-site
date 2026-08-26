@@ -1,4 +1,12 @@
+import { Metadata } from "next";
 import Link from "next/link";
+
+export const metadata: Metadata = {
+title: "Great Expectations | Victoria's SEO Analytics Lab",
+description:
+"Learn how Great Expectations is used for data quality validation.",
+};
+
 
 export default function GreatExpectationsPage() {
   return (

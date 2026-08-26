@@ -1,4 +1,12 @@
+import { Metadata } from "next";
 import Link from "next/link";
+
+
+export const metadata: Metadata = {
+  title: "PostgreSQL | Victoria's SEO Analytics Lab",
+  description:
+  "Learn how PostgreSQL is used for data storage and management.",
+};
 
 export default function PostgreSQLPage() {
   return (

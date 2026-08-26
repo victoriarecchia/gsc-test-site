@@ -1,5 +1,13 @@
+import { Metadata } from "next";
 import Link from "next/link";
 
+
+export const metadata: Metadata = {
+title: "Superset | Victoria's SEO Analytics Lab",
+description:
+"Learn how Superset is used for data visualization and dashboarding.",
+};
+  
 export default function SupersetPage() {
   return (
     <main>
