@@ -3,7 +3,7 @@ import Link from "next/link";
 
 
 export const metadata: Metadata = {
-title: "Superset | Victoria's SEO Analytics Lab",
+title: "Superset Page",
 description:
 "Learn how Superset is used for data visualization and dashboarding.",
 };

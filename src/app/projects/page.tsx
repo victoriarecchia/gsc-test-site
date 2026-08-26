@@ -2,7 +2,7 @@ import { Metadata } from "next";
 
 
 export const metadata: Metadata = {
-  title: "Projects",
+  title: "Projects ",
   description:
   "Explore my SEO Analytics Lab projects using Python, PostgreSQL, Pandas, Superset and Great Expectations.",
 };

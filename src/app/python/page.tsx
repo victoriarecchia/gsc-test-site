@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-title: "Python page",
+title: "Python Page",
 description:
 "Learn how Python is used for data analytics, data engineering, machine learning and automation.",
 };

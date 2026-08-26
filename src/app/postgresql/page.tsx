@@ -3,7 +3,7 @@ import Link from "next/link";
 
 
 export const metadata: Metadata = {
-  title: "PostgreSQL | Victoria's SEO Analytics Lab",
+  title: "PostgreSQL Page",
   description:
   "Learn how PostgreSQL is used for data storage and management.",
 };
